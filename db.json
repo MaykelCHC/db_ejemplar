@@ -1,0 +1,14 @@
+{
+  "login_usuarios": [
+    {
+      "id": 1,
+      "correo": "Post 1",
+      "password": "Post 1",
+      "nuevopassword": "Post 1",
+      "nombre": "Post 1",
+      "apellidos": "Post 1",
+      "fechanaci": "Post 1",      
+    },   
+  ],  
+}
+
